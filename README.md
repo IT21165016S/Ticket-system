@@ -1,5 +1,5 @@
 # Ticket-system
-create a admin user ticket system
+create a admin user ticket system.
 ticketing system application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and styled using Tailwind CSS. This application allows users to create and manage tickets, while admins can view and respond to tickets with comments and status changes.
 
 ## Features
