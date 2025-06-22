@@ -13,3 +13,8 @@ ticketing system application built with the MERN stack (MongoDB, Express.js, Rea
 - **Status Update**: Change ticket status (e.g., Pending, Approved, Rejected).
 - **Messaging**: Leave comments or messages on tickets for users.
 
+## 👨‍💻 Author
+Developed by: Kawya R.M.S <br>
+💼 LinkedIn: www.linkedin.com/in/shasthri-kawya-7358b6326 <br>
+📧 Email: kawyaranaweera9@gmail.com <br>
+
